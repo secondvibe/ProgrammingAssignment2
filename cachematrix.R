@@ -1,9 +1,6 @@
 ## R Programming: Week 3, Programming Assignment 2
 ##
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
-## cacheSolve calculates the inverse of t
-
-
 
 makeCacheMatrix <- function(x = matrix()) {
 	inverse_x <- NULL
